@@ -138,4 +138,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License with the following condition: The code cannot be used for business purposes without explicit permission from the author. For further details, see the LICENSE file for details.
